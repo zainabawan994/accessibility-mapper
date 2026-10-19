@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Production build outputs
+dist/
+*/dist/
+build/
+*/build/
+
+# Environment files
+.env
+.env.*
+!.env.example
+*/.env
+*/.env.*
+!*/.env.example
+
+# Logs and system files
+*.log
+.DS_Store
+Thumbs.db
+
+# Python bytecode & virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/

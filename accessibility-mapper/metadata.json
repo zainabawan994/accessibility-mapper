@@ -1,0 +1,10 @@
+{
+  "name": "Accessibility Mapper",
+  "description": "AI-powered discovery platform to find, verify, and report wheelchair-accessible entrances, ramps, elevators, and amenities in public places with CNN image classification.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
